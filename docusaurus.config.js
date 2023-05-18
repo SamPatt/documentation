@@ -139,7 +139,7 @@ const config = {
 							},
 							{
 								label: "Telegram",
-								href: "https://t.me/joinchat/ENhPuhTvhm8WlIxTjQf7Og",
+								href: "https://t.me/joinchat/VWI0UBxnG7f7_DV7",
 							},
 						],
 					},
